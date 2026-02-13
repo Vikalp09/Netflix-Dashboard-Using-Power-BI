@@ -108,7 +108,6 @@ Business Insight Generation
 
 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 Example:
 
