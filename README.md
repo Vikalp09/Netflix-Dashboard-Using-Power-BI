@@ -112,7 +112,7 @@ Business Insight Generation
 
 Example:
 
-![Dashboard Preview](images/netflix_dashboard.png)
+![Dashboard Preview](dashboard-image.png)
 
 🚀 How to Use
 
